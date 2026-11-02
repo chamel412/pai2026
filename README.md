@@ -87,15 +87,6 @@ ros2_ws/src/diffbot_task/
 setup/                         環境構築・実行スクリプト
 output/ai_results/             学習済み重み、学習曲線、デバッグ結果、評価結果
 ```
-
-## 参考
-
-- ROS2とGazeboの連携によるロボット操作 (最終課題サンプル) https://qiita.com/N622/items/9d89f77d85d9da0af29e
-  — 差動二輪 + DiffDrive + ros_gz_bridge + キー操作の構成をベースにした
-- Physical AI 応用編1 第5回 講義資料 (ROS によるデータ収集と模倣学習)
-- S. Ross et al., "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning" (DAgger), AISTATS 2011
-- M. Laskey et al., "DART: Noise Injection for Robust Imitation Learning", CoRL 2017
-
 ## License
 
 MIT
