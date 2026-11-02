@@ -1,5 +1,0 @@
-[patrol_node-3] [INFO] [1793485762.204707287] [patrol_node]: A に到達 (t=19.0s)
-[patrol_node-3] [INFO] [1793485782.572525703] [patrol_node]: B に到達 (t=37.6s)
-[patrol_node-3] [INFO] [1793485801.165306400] [patrol_node]: C に到達 (t=54.3s)
-[patrol_node-3] [INFO] [1793485818.344832657] [patrol_node]: H に到達 (t=69.3s)
-[patrol_node-3] [INFO] [1793485818.345231560] [patrol_node]: 巡回完了: 69.3s, 20.3m, 最接近 0.45m, 成功 4/4
