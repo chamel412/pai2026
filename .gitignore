@@ -1,0 +1,19 @@
+# ビルド成果物
+build/
+install/
+log/
+__pycache__/
+*.pyc
+
+# 実行ログ (ローカルのパスが含まれるため公開しない)
+setup/*log*.txt
+
+# レポート作成用の作業ファイル
+report/node_modules/
+report/package*.json
+report/preview/
+
+# 大きな生成物 (動画は YouTube、レポートは omnicampus で提出)
+output/*.mp4
+output/*.docx
+output/*.pdf

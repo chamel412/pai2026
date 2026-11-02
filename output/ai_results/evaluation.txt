@@ -1,0 +1,7 @@
+policy patrol_bc trial1: 74.8s, 19.9m, 最接近 0.20m, 成功 4/4
+policy patrol_bc trial2: 100.7s, 17.5m, 最接近 0.20m, 成功 3/4
+policy patrol_bc trial3: 71.7s, 20.4m, 最接近 0.23m, 成功 4/4
+policy patrol_bc_dagger trial1: 71.6s, 20.5m, 最接近 0.24m, 成功 4/4
+policy patrol_bc_dagger trial2: 69.2s, 19.9m, 最接近 0.22m, 成功 4/4
+policy patrol_bc_dagger trial3: 69.4s, 20.0m, 最接近 0.24m, 成功 4/4
+expert patrol_bc trial1: 69.3s, 20.3m, 最接近 0.45m, 成功 4/4

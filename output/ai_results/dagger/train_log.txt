@@ -1,0 +1,13 @@
+data: 16647 frames, 110 episodes  train 13542 / val 3105 frames (88 / 22 episodes)
+epoch    1  train 0.09803  val 0.11218
+epoch   20  train 0.00751  val 0.05346
+epoch   40  train 0.00450  val 0.05007
+epoch   60  train 0.00331  val 0.04935
+epoch   80  train 0.00256  val 0.04958
+epoch  100  train 0.00207  val 0.05096
+epoch  120  train 0.00170  val 0.05057
+epoch  140  train 0.00147  val 0.04999
+epoch  160  train 0.00130  val 0.05158
+epoch  180  train 0.00120  val 0.05075
+epoch  200  train 0.00117  val 0.05089
+best val MSE 0.04822

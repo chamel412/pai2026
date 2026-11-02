@@ -1,0 +1,3 @@
+validation frames: 3105, episodes: 22
+linear v: MAE 0.028 m/s, R2 0.650
+angular w: MAE 0.201 rad/s, R2 0.650
