@@ -1,4 +1,4 @@
-# 模倣学習で自律巡回する差動二輪ロボット (ROS 2 Humble + Gazebo Fortress)
+# 模倣学習で自律巡回する差動二輪ロボット (ROS 2 + Gazebo)
 
 Physical AI 応用編1 最終課題。
 LiDAR とオドメトリだけを入力に、**ニューラルネットの方策 (AI) が速度指令を出して**、
